@@ -1,0 +1,5 @@
+Devido a restrição ao tamanho de arquivos superior a 100mb, não foi possível disponibilizar o dataset inicial neste local.
+Entretanto, pode ser facialmente baixa no endereço:
+https://s3-sa-east-1.amazonaws.com/ckan.saude.gov.br/SRAG/2020/INFLUD-01-03-2021.csv
+
+Origem:https://opendatasus.saude.gov.br/dataset/bd-srag-2020
